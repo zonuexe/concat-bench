@@ -14,3 +14,6 @@
 
 ![](img/result-m1mac.png)
 
+### M1 Mac (MacBook Pro 14 inch, 2021) + OPCache
+
+![](img/result-m1mac-opcache.png)
