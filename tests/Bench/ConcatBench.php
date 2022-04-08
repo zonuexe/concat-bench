@@ -83,7 +83,7 @@ class ConcatBench
     public function provideString()
     {
         yield 'string=0' => ['string' => ''];
-        //yield 'string=1' => ['string' => str_repeat('a', 1)];
+        yield 'string=1' => ['string' => str_repeat('a', 1)];
         yield 'string=100' => ['string' => str_repeat('a', 100)];
     }
 }
