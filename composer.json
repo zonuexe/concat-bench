@@ -1,0 +1,11 @@
+{
+    "name": "zonuexe/concat-benchmark",
+    "description": "Benchmark",
+    "license": "FSFAP",
+    "require": {
+        "phpbench/phpbench": "^1.2"
+    },
+    "autoload": {
+        "classmap": ["tests"]
+    }
+}
